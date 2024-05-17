@@ -1,0 +1,30 @@
+{
+    "faq": [
+      {
+        "id": 1,
+        "question": "What is your return policy?",
+        "answer": "You can return any item within 30 days of purchase for a full refund. Please ensure the item is in its original condition and packaging."
+      },
+      {
+        "id": 2,
+        "question": "How long does shipping take?",
+        "answer": "Shipping times vary depending on your location. Typically, it takes 5-7 business days for domestic orders and 10-15 business days for international orders."
+      },
+      {
+        "id": 3,
+        "question": "Do you offer customer support?",
+        "answer": "Yes, we offer 24/7 customer support. You can contact us via email, phone, or live chat on our website."
+      },
+      {
+        "id": 4,
+        "question": "Can I change my order after it's been placed?",
+        "answer": "You can change your order within 24 hours of placing it. Please contact our customer support team as soon as possible to make any changes."
+      },
+      {
+        "id": 5,
+        "question": "Do you offer discounts for bulk purchases?",
+        "answer": "Yes, we offer discounts for bulk purchases. Please contact our sales team for more information on bulk pricing."
+      }
+    ]
+  }
+  
